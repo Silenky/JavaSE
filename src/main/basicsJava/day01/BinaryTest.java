@@ -15,7 +15,7 @@ package day01;
 */
 class BinaryTest {
 	public static void main(String[] args) {
-
+      // 表达式
 		int num1 = 0b110;
 		int num2 = 110;
 		int num3 = 0127;
